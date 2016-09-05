@@ -39,7 +39,8 @@
   "dependencies": {
     "get-stdin": "^5.0.1",
     "meow": "^3.6.0",
-    "pretty-bytes": "^4.0.0"
+    "pretty-bytes": "^4.0.0",
+    "pretty-kibi-bytes": "^4.0.0"
   },
   "devDependencies": {
     "ava": "*",
